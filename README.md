@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Vivek Tiwari
 
-🎯 Passionate .NET Developer | 💻 Full-Stack Engineer | 🌐 Building Scalable Web Apps
+🎯 Passionate .NET Developer | 💻 Full-Stack Engineer
 
 ---
 
